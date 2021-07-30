@@ -1,0 +1,101 @@
+KeyWords,NaicsCode,ClassificationCode
+hvac,238220,Z
+heating,236220,Y
+cooling,334111,J
+boiler,541330,70
+chiller,541310,C
+water heater,811310,41
+air conditioner,236210,70
+air conditioning,811212,62
+a/c,334118,W
+furnace,333415,72
+fan,333318,73
+dehumidifier,238210,N
+heat pump,561210,59
+water heating,334210,41
+computer,334112,45
+desktop,532420,58
+laptop,335122,74
+notebook,334310,35
+server,335999,73
+workstation,423430,62
+monitor,811219,X
+enterprise server,532210,61
+ups,335224,S
+LED,236118,59
+uninterruptible power supply,423620,72
+uninterruptible power supplies,335110,56
+uninterruptible power,541519,99
+copier,541512,M
+multifunction,333241,45
+multi-function,238290,D
+scanner,811412,R
+printer,238990,61
+mail machine,532490,35
+mailing machine,531120,38
+telephone,334220,74
+phone,237990,56
+tv,333316,75
+television,335222,20
+light,423730,58
+lighting,335228,H
+light fixture,722310,99
+luminaire,236220,54
+lamp,335129,49
+food service,334419,66
+cafeteria service,335311,38
+vending machine,334413,F
+dishwasher,335221,75
+kitchen,531190,20
+fryer,335220,36
+griddle,335210,44
+ice machine,423420,43
+oven,335121,U
+refrigerator,423440,23
+freezer,332311,53
+steamer,811213,63
+washer,237130,65
+construction,334290,54
+renovation,561621,65
+Multiple Award Schedule,333414,32
+heater,333244,V
+ice making machine,335911,47
+floodlight,336320,10
+washing machine,423610,66
+a & e,237310,71
+fluorescent,336413,43
+lamp,424410,L
+matoc,561790,30
+idiq,336611,X1AA
+chillers,53112,41
+bulb,334516,62
+light bulb,531,J041
+steam cooker,332410,Y1JZ
+holding,,Y1DA
+food holding,,45
+refrigerators,,6640
+heaters,,C211
+water heaters,,Z2AA
+freezers,,Z1DA
+clothes washer,,C219
+audio,,N041
+video,,Z2JZ
+dryer,,C1DA
+clothes dryer,,Y1DZ
+vending machine,,C1DZ
+water cooler,,J072
+cooler,,44
+,,J045
+,,Z2DA
+,,R425
+,,4110
+,,J065
+,,Z2DZ
+,,Y1AA
+,,Y1FC
+,,4120
+,,Y1NB
+,,6530
+,,X1DB
+,,4410
+,,Y1BZ
